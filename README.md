@@ -3,4 +3,5 @@ If you are running bash from windows install X-ming and run 'export DISPLAY=loca
 To start:
 
 pip3 install -r requirements.txt
+
 python3 tetris.py
